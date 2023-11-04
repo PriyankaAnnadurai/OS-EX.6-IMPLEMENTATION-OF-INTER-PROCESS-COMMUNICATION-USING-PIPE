@@ -36,6 +36,7 @@ int main()
 }
 ```
 ## OUTPUT:
+![image](https://github.com/PriyankaAnnadurai/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/118351569/3c43dac1-7ec1-4ce8-bb18-adf69924f3b5)
 
 
 ## RESULT:
